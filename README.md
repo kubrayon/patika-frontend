@@ -1,1 +1,1 @@
-# patika-frontend
+## Patika Front-end alıştırmalarım
